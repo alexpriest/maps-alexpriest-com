@@ -1,6 +1,14 @@
 # maps.alexpriest.com
 
-Static, hand-built place guides. One directory per city.
+Hand-built city guides, one self-contained HTML file per city, that work with no network at all.
+
+## Status
+
+Shipped — one guide so far, Mexico City, verified July 2026.
+
+## License
+
+Not licensed for reuse.
 
 - Each guide is a **single self-contained HTML file** — basemap baked in as a data URI, no external requests, works offline.
 - `noindex, nofollow`. Unlisted, not secret.
